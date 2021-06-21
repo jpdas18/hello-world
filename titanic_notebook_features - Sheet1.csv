@@ -1,0 +1,255 @@
+file_name,user_name,notebook_name,libraries,num_lib
+panditdandgule_complete-beginner-your-first-titanic-submission.html,panditdandgule,complete-beginner-your-first-titanic-submission,"['pandas', 'sklearn', 'export_graphviz', 'Image,', 'a']",5
+xupanda_titanic-random-forest-82-78.html,xupanda,titanic-random-forest-82-78,"['os', 'pandas', 'numpy', 'seaborn', 'matplotlib', 'sklearn']",6
+mosleylm_titanic-data-set-exploration.html,mosleylm,titanic-data-set-exploration,"['numpy', 'pandas', 'csv', 'subprocess', 'matplotlib', 're', 'sklearn', 'seaborn']",8
+keilorgilbert_titanic-initial-exploration-of-data.html,keilorgilbert,titanic-initial-exploration-of-data,"['pandas', 'numpy', 'seaborn', 'matplotlib', 'scipy', 'our']",6
+monthepp_titanic-machine-learning-from-disaster.html,monthepp,titanic-machine-learning-from-disaster,"['python', 're', 'data', 'numpy', 'pandas', 'matplotlib', 'seaborn', 'sklearn']",8
+maheshsk_titanic-survival-prediction-end-to-end-ml-pipeline.html,maheshsk,titanic-survival-prediction-end-to-end-ml-pipeline,"['pandas', 'numpy', 'matplotlib', 'seaborn', 're', 'sklearn']",6
+manishshah120_titanic-kaggle-competition.html,manishshah120,titanic-kaggle-competition,"['os', 'pandas', 'numpy', 'seaborn', 'sklearn', 'matplotlib', 'warnings', 'statistics']",8
+iamaniket_titanicsurvivorprediction.html,iamaniket,titanicsurvivorprediction,"['numpy', 'pandas', 'os', 'seaborn', 'matplotlib', 'math', 'sklearn']",7
+ishida66_titanic-random-forest-82-78.html,ishida66,titanic-random-forest-82-78,"['os', 'pandas', 'numpy', 'seaborn', 'matplotlib', 'sklearn']",6
+surenj_titanic.html,surenj,titanic,"['os', 'pandas', 'matplotlib', 'seaborn', 'numpy', 'sklearn']",6
+dbabs8_titanic-data-science-solutions-db.html,dbabs8,titanic-data-science-solutions-db,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+orhunyildiz_titanic-notebook.html,orhunyildiz,titanic-notebook,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'collections', 'warnings', 'os', 'sklearn']",8
+nlprunner_titanic-practice-with-scikit-learn.html,nlprunner,titanic-practice-with-scikit-learn,['pandas'],1
+yasserabdelsattar_titanic-predictions-using-g-boosting.html,yasserabdelsattar,titanic-predictions-using-g-boosting,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'sklearn']",6
+dnfinal_titanic-data-science-solutions.html,dnfinal,titanic-data-science-solutions,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+francoisolivier_titanic4.html,francoisolivier,titanic4,"['pandas', 'xgboost', 'sklearn', 'numpy']",4
+jimchen65_titanic.html,jimchen65,titanic,"['numpy', 'pandas', 'subprocess']",3
+sabarostami_titanic.html,sabarostami,titanic,"['numpy', 'pandas', 'os', 'seaborn', 'matplotlib', 'sklearn', 'warnings']",7
+mukultiwari_titanic-2.html,mukultiwari,titanic-2,"['numpy', 'pandas', 'sklearn', 'xgboost', 'statistics']",5
+shuanggao_titanic-tiro.html,shuanggao,titanic-tiro,"['numpy', 'pandas', 'os', 're', 'sklearn', 'matplotlib', 'xgboost', 'joblib,']",8
+sebastiengclaro_kaggle-titanic.html,sebastiengclaro,kaggle-titanic,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'sklearn']",6
+amigosmomo_titanic-data-science-xgboost-with-tunning.html,amigosmomo,titanic-data-science-xgboost-with-tunning,"['numpy', 'pandas', 'os', 'random', 'seaborn', 'matplotlib', 'xgboost', 'sklearn', 'IPython', 'warnings', 'time']",11
+inshalkhan_titanic-analysis.html,inshalkhan,titanic-analysis,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn', 'the', 'pycaret']",8
+zzw922cn_a-journey-through-titanic.html,zzw922cn,a-journey-through-titanic,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+eqchee_titanic.html,eqchee,titanic,"['numpy', 'pandas', 'matplotlib', 'sklearn', 'os']",5
+liyanageskydisc_starter-titanic-0cbe8c70-9.html,liyanageskydisc,starter-titanic-0cbe8c70-9,"['libraries', 'mpl_toolkits', 'sklearn', 'matplotlib', 'numpy', 'os', 'pandas']",7
+gracyf_titanic-survival-predictor-my-first-in-kaggle.html,gracyf,titanic-survival-predictor-my-first-in-kaggle,"['pandas', 'numpy', 'matplotlib', 'sklearn', 'subprocess', 'seaborn', 'xgboost', 'vecstack']",8
+loremipsuma_titanic-eda.html,loremipsuma,titanic-eda,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'collections', 'warnings', 'os', 'sklearn']",8
+bkonovalov_titanic-bkonovalov-submit.html,bkonovalov,titanic-bkonovalov-submit,"['numpy', 'pandas', 'os', 'sklearn', 'xgboost']",5
+kleytontorikai_titanic-survivors.html,kleytontorikai,titanic-survivors,"['numpy', 'pandas', 'os', 'sklearn', 'xgboost']",5
+bhavikjain_bhavik-titanic.html,bhavikjain,bhavik-titanic,"['pandas', 'sklearn', 'numpy']",3
+sumeetpisal_titanic-prediction.html,sumeetpisal,titanic-prediction,"['numpy', 'pandas', 'os', 'sklearn']",4
+simo2712_titanic-disaster-ml-first-project.html,simo2712,titanic-disaster-ml-first-project,"['the', 'pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",6
+nikanth_titanic-data-science-solutions.html,nikanth,titanic-data-science-solutions,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+shotaku_titanic-prediction-using-neural-nework.html,shotaku,titanic-prediction-using-neural-nework,"['numpy', 'pandas', 'os', 'sklearn', 'sys', 'keras']",6
+wildwatermelon_titanic-tutorial.html,wildwatermelon,titanic-tutorial,"['pandas', 'numpy', 're', 'sklearn']",4
+yosher_exploratory-analysis-on-titanic.html,yosher,exploratory-analysis-on-titanic,"['numpy', 'pandas', 'IPython', 'sklearn', 'sys']",5
+trinkwasserpsprudler_titanic.html,trinkwasserpsprudler,titanic,"['numpy', 'pandas', 'seaborn', 'os', 'pandas_profiling', 'sklearn']",6
+wonne2_titanic-wonne.html,wonne2,titanic-wonne,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'os', 'sklearn', 'xgboost', 'lightgbm', 'catboost', 'keras']",10
+elshera_titanic-dataset-predicting-survivals.html,elshera,titanic-dataset-predicting-survivals,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'sklearn']",5
+simulacra_titanic-with-xgboost.html,simulacra,titanic-with-xgboost,"['numpy', 'pandas', 'sklearn', 'matplotlib', 'xgboost']",5
+kvinaya_titanic-survived-count.html,kvinaya,titanic-survived-count,"['numpy', 'pandas', 'subprocess', 'matplotlib', 'seaborn']",5
+yuta12345_titanic-machine-learning-from-disaster.html,yuta12345,titanic-machine-learning-from-disaster,"['numpy', 'pandas', 'matplotlib', 'sklearn', 'os']",5
+vivekkr970_titanic-survival-prediction.html,vivekkr970,titanic-survival-prediction,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn', 'IPython']",6
+okanerayger_titanic-survive-prediction.html,okanerayger,titanic-survive-prediction,"['numpy', 'pandas', 'statsmodels', 'seaborn', 'matplotlib', 'warnings', 'sklearn', 'lightgbm', 'xgboost']",9
+mirandora_titanic-tutorial-code.html,mirandora,titanic-tutorial-code,"['numpy', 'pandas', 'os', 'random', 'matplotlib', 'seaborn', 'sklearn', 'lightgbm']",8
+nitinkaushik1978_titanic-basic-solution-with-logistic-regression.html,nitinkaushik1978,titanic-basic-solution-with-logistic-regression,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'os', 're', 'sklearn']",7
+yergou_titanic.html,yergou,titanic,"['numpy', 'pandas', 'seaborn', 'matplotlib']",4
+naimur978_titanic-who-s-gonna-survive-public-score-81.html,naimur978,titanic-who-s-gonna-survive-public-score-81,"['datetime', 'numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'sklearn', 'xgboost', 'lightgbm', 'catboost', 'IPython', 'warnings', 'sys', 're', 'statistics']",15
+sabirul_titanic-using-naive-bayes.html,sabirul,titanic-using-naive-bayes,['csv'],1
+bittelc_bittelc-titanic.html,bittelc,bittelc-titanic,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+gihanr_machine-learning-and-titanic.html,gihanr,machine-learning-and-titanic,"['numpy', 'pandas', 'seaborn', 'matplotlib', 'sklearn']",5
+anthonyivan_titanic.html,anthonyivan,titanic,"['numpy', 'pandas', 'sklearn', 'subprocess']",4
+maxsantos_titanic-notebook.html,maxsantos,titanic-notebook,"['the', 'numpy', 'pandas', 'IPython', 'matplotlib', 'seaborn', 'sklearn']",7
+harityadav_titanic-competition.html,harityadav,titanic-competition,"['numpy', 'pandas', 'os', 'seaborn', 'matplotlib', 'sklearn', 'statsmodels']",7
+daniel83fr_titanic-how-to-start-a-beginners-path.html,daniel83fr,titanic-how-to-start-a-beginners-path,"['pandas', 'warnings', 'seaborn', 'sklearn', 'sys']",5
+psangam_titanic-survival-analysis-and-prediction-using-ml.html,psangam,titanic-survival-analysis-and-prediction-using-ml,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'IPython', 'sklearn', 'xgboost', 'fancyimpute']",8
+sanchitvj_titanic.html,sanchitvj,titanic,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'plotly', 're', 'warnings', 'sklearn', 'xgboost']",10
+sauravprasad_eda-titanic.html,sauravprasad,eda-titanic,"['numpy', 'pandas', 'matplotlib', 'seaborn', 're', 'sklearn']",6
+goldob_titanic.html,goldob,titanic,"['numpy', 'pandas']",2
+sadam25_titanic-beginners-model-built-using-log-reg.html,sadam25,titanic-beginners-model-built-using-log-reg,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'sklearn']",6
+alissecian_titanic-crash-course-decision-tree-visualization.html,alissecian,titanic-crash-course-decision-tree-visualization,"['numpy', 'pandas', 'sklearn', 'graphviz', 'IPython', 'os', 'subprocess']",7
+elwlslek_titanic-eda-to-predict.html,elwlslek,titanic-eda-to-predict,"['numpy', 'pandas', 'os', 'warnings', 'IPython', 'matplotlib', 'seaborn', 're', 'sklearn']",9
+keweishang_titanic.html,keweishang,titanic,"['numpy', 'pandas', 'subprocess']",3
+kasonli_learning-ml-1-titanic-data.html,kasonli,learning-ml-1-titanic-data,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+ozankaans_beginner-titanic-disaster-prediction.html,ozankaans,beginner-titanic-disaster-prediction,"['numpy', 'pandas', 'os', 'seaborn', 'matplotlib', 'sklearn']",6
+davidcoxon_deeply-titanic.html,davidcoxon,deeply-titanic,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'sklearn', 'warnings', 'data', 'scipy', '__future__', 'keras']",10
+lhavanya_titanic-analysis.html,lhavanya,titanic-analysis,"['numpy', 'matplotlib', 'seaborn', 'pylab', 'pandas_profiling', 'sklearn', 'pandas', 'xgboost']",8
+maxwellgreene_python-titanic.html,maxwellgreene,python-titanic,"['numpy', 'pandas', 'os', 'sklearn']",4
+crystaliu_titanic-survival-analytics.html,crystaliu,titanic-survival-analytics,"['pandas', 'numpy', 'seaborn', 'sklearn', 'matplotlib', 'some']",6
+dcdanko_a-journey-through-titanic.html,dcdanko,a-journey-through-titanic,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+umang5916_titanic-data-analysis-logistic-regression.html,umang5916,titanic-data-analysis-logistic-regression,"['pandas', 'numpy', 'sklearn']",3
+pcjukaria_titanic-survival.html,pcjukaria,titanic-survival,"['pandas', 'numpy', 'seaborn', 'matplotlib', 'sklearn']",5
+hyzyzs_a-journey-through-titanic.html,hyzyzs,a-journey-through-titanic,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+sanjaynandakumar_titanic-survival-analysis-using-logistic-reg.html,sanjaynandakumar,titanic-survival-analysis-using-logistic-reg,"['numpy', 'pandas', 'os', 'collections', 'sklearn', 'matplotlib']",6
+ayang98_first-titanic.html,ayang98,first-titanic,"['numpy', 'pandas', 'os', 'sklearn', 'random', 'catboost', 'xgboost']",7
+suthirs_titanic-dataset-null-missing-values-treatment.html,suthirs,titanic-dataset-null-missing-values-treatment,"['numpy', 'pandas', 'os']",3
+tarunchoubisa_a-journey-through-titanic.html,tarunchoubisa,a-journey-through-titanic,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+souravdas4_prediction-of-survival-in-titanic-disaster.html,souravdas4,prediction-of-survival-in-titanic-disaster,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+asyl21795_asyl-titanic.html,asyl21795,asyl-titanic,"['pandas', 'numpy', 'matplotlib', 'pandas:¶value', 'sklearn']",5
+anandrikka_project-titanic.html,anandrikka,project-titanic,"['numpy', 'pandas', 'math', 'os', 'matplotlib', 'seaborn', 'sklearn']",7
+astrocyte_cungbuk-univ-2020-comphy2-titanic-tutorial.html,astrocyte,cungbuk-univ-2020-comphy2-titanic-tutorial,"['numpy', 'pandas', 'os', 'sklearn']",4
+eeshwarib_titanic-data-analysis-1.html,eeshwarib,titanic-data-analysis-1,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'sklearn']",6
+zgh19971022_logisticregression-titanic.html,zgh19971022,logisticregression-titanic,"['numpy', 'pandas', 'matplotlib', 'sklearn']",4
+vardos_leaning-titanic.html,vardos,leaning-titanic,['sample'],1
+kerneler_starter-titanic-07c21d6b-d.html,kerneler,starter-titanic-07c21d6b-d,"['libraries', 'mpl_toolkits', 'sklearn', 'matplotlib', 'numpy', 'os', 'pandas']",7
+mikeaalv_titanic-competition.html,mikeaalv,titanic-competition,"['numpy', 'pandas', 'xgboost', 'sklearn', 'os']",5
+tkayyang_titanic-practice.html,tkayyang,titanic-practice,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'missingno', 'warnings', 'sklearn']",7
+tetsuyazama_titanic-example-for-nst.html,tetsuyazama,titanic-example-for-nst,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'warnings', 'sklearn']",7
+fernandot44_starter-titanic-0ff4440a-2.html,fernandot44,starter-titanic-0ff4440a-2,"['libraries', 'mpl_toolkits', 'sklearn', 'matplotlib', 'numpy', 'os', 'pandas']",7
+myndel_titanic-machine-learning-from-disaster.html,myndel,titanic-machine-learning-from-disaster,"['numpy', 'pandas', 'sklearn']",3
+g9jiggy_titanic-solution-an-approach-from-a-beginner-s.html,g9jiggy,titanic-solution-an-approach-from-a-beginner-s,"['pandas', 'numpy', 'seaborn', 'matplotlib', 'warnings', 'os', 'sklearn']",7
+satyamkr1729_titanic-dataset.html,satyamkr1729,titanic-dataset,"['numpy', 'pandas', 'seaborn', 'matplotlib', 'sklearn', 'xgboost']",6
+keenank_titanic-data-science.html,keenank,titanic-data-science,"['numpy', 'pandas', 'seaborn', 'matplotlib', 'sklearn']",5
+srksiva20_titanic-competetion.html,srksiva20,titanic-competetion,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'sklearn', 'os']",6
+ssandorov_titanic-competition.html,ssandorov,titanic-competition,"['numpy', 'pandas', 'os', 'sklearn']",4
+varun0727_titanic-machine-learning-from-disaster.html,varun0727,titanic-machine-learning-from-disaster,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'sklearn']",6
+noogakl81_titanic-script.html,noogakl81,titanic-script,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+thelazydatascientist_titanic.html,thelazydatascientist,titanic,"['numpy', 'pandas', 'data', 'matplotlib', 'seaborn', 'sklearn', 'catboost', 'os', 'xgboost', 'lightgbm']",10
+mantej_titanic-waley-bhaiya.html,mantej,titanic-waley-bhaiya,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'warnings', 'sklearn', 'tpot', 'xgboost']",9
+kerneler_starter-survivedtitanic-29986389-6.html,kerneler,starter-survivedtitanic-29986389-6,"['libraries', 'mpl_toolkits', 'sklearn', 'matplotlib', 'numpy', 'os', 'pandas']",7
+greeshmagirish_titanic-regression.html,greeshmagirish,titanic-regression,"['pandas', 'numpy', 'sklearn', 'random']",4
+mamunalbd4_mamun-titanic.html,mamunalbd4,mamun-titanic,"['numpy', 'pandas', 'os', 'seaborn']",4
+youngwancha_notebook-cha-titanic.html,youngwancha,notebook-cha-titanic,"['numpy', 'pandas', 'os', 'seaborn', 'matplotlib', 'sklearn']",6
+omrihar_getting-to-know-kaggle-with-the-titanic-data-set.html,omrihar,getting-to-know-kaggle-with-the-titanic-data-set,"['pandas', 'tensorflow', 'sklearn', 'IPython', 'matplotlib']",5
+patrikdurdevic_the-titanic-tensorflow-deep-learning-crisp-dm.html,patrikdurdevic,the-titanic-tensorflow-deep-learning-crisp-dm,"['numpy', 'pandas', 'tensorflow', 'matplotlib', 'math', 'seaborn', 'sklearn']",7
+penguinwang96825_xgboost-newbie-for-titanic-dataset.html,penguinwang96825,xgboost-newbie-for-titanic-dataset,"['numpy', 'pandas', 'os', 'xgboost', 'sklearn', 'matplotlib']",6
+nptumis103035_titanic-data-science-solutions-8954f2.html,nptumis103035,titanic-data-science-solutions-8954f2,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+dannydwkim_titanic-thx-to-ahmed.html,dannydwkim,titanic-thx-to-ahmed,"['numpy', 'pandas', 'os', 'warnings', 'matplotlib', 'seaborn', 'pylab', 'collections', 'sklearn', 'xgboost', 'lightgbm']",11
+jandersonff_titanic-xgboost-jj.html,jandersonff,titanic-xgboost-jj,"['pandas', 'numpy', 'matplotlib', 'subprocess', 'xgboost', 'sklearn']",6
+ospohngellert_titanic-kernel-79-4-accuracy.html,ospohngellert,titanic-kernel-79-4-accuracy,"['pandas', 'random', 'sklearn', 'numpy', 're', 'matplotlib', 'scipy', 'math', 'train']",9
+yananhe_titanic-ml.html,yananhe,titanic-ml,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'sklearn', 'lightgbm']",6
+bhavinmoriya_titanic-starts-off.html,bhavinmoriya,titanic-starts-off,"['numpy', 'pandas', 'os', 'sklearn']",4
+omkarsabnis_svm-knn-rf-and-dt-implementation-titanic.html,omkarsabnis,svm-knn-rf-and-dt-implementation-titanic,"['warnings', 'pandas', 'numpy', 'seaborn', 'matplotlib', 'sklearn']",6
+maimahdi_titanicrf.html,maimahdi,titanicrf,"['numpy', 'pandas', 'os', 'sklearn']",4
+akashadesai_eda-predicting-titanic-survivors-using-ml.html,akashadesai,eda-predicting-titanic-survivors-using-ml,"['warnings', 'pandas', 'matplotlib', 'numpy', 'seaborn', 'os', 'sklearn']",7
+leapleap_titanic-analysis-heavy-on-the-data-cleaning.html,leapleap,titanic-analysis-heavy-on-the-data-cleaning,"['pandas', 'os', 'matplotlib', 'numpy', 'random', 'seaborn', 'sklearn']",7
+gomesbruna_titanic-survival-prediction-1.html,gomesbruna,titanic-survival-prediction-1,"['pandas', 'numpy', 'matplotlib', 'seaborn', 're', 'sklearn']",6
+anguscc_a-journey-through-titanic-2268c7.html,anguscc,a-journey-through-titanic-2268c7,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+billlwu_titanic-exploratory.html,billlwu,titanic-exploratory,"['numpy', 'pandas', 'matplotlib', 'sklearn', 'os']",5
+kmisiunas_titanic-classification-using-decision-treed.html,kmisiunas,titanic-classification-using-decision-treed,"['numpy', 'pandas', 'subprocess', 'random', 'sklearn', 'IPython', 'name']",7
+anupchandratre_titanic-basic-solution-with-logistic-regression.html,anupchandratre,titanic-basic-solution-with-logistic-regression,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'os', 're', 'sklearn']",7
+continue7777_titanic-data-science-solutions.html,continue7777,titanic-data-science-solutions,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+atul0204_titanic-using-neural-network.html,atul0204,titanic-using-neural-network,"['numpy', 'pandas', 'tensorflow', 'keras', 'sklearn', 'os']",6
+ren666_kaggle-titanic.html,ren666,kaggle-titanic,"['numpy', 'pandas', 'os', 'matplotlib', 'sklearn']",5
+runzedong_titanic-1st-version.html,runzedong,titanic-1st-version,"['numpy', 'pandas', 'seaborn', 'matplotlib', 'sklearn', 'xgboost']",6
+nazimonderorhan_getting-started-with-titanic.html,nazimonderorhan,getting-started-with-titanic,"['numpy', 'pandas', 'os', 'sklearn']",4
+rohitvijay_titanic-prediction-using-logistic-regression.html,rohitvijay,titanic-prediction-using-logistic-regression,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+rmelick_titanic-notebook-complete.html,rmelick,titanic-notebook-complete,[],0
+kerneler_starter-titanic-all-zeros-csv-file-eb06f941-e.html,kerneler,starter-titanic-all-zeros-csv-file-eb06f941-e,"['libraries', 'mpl_toolkits', 'sklearn', 'matplotlib', 'numpy', 'os', 'pandas']",7
+vitorishi_titanic-a-beginner-approach-with-neural-networks.html,vitorishi,titanic-a-beginner-approach-with-neural-networks,"['pandas', 'numpy', 'seaborn', 'matplotlib', 'sklearn', 'tensorflow']",6
+penguincwarrior_a-journey-through-titanic.html,penguincwarrior,a-journey-through-titanic,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+jingnanyang_titanic.html,jingnanyang,titanic,"['numpy', 'pandas', 'sklearn', 'os']",4
+shari1_titanic.html,shari1,titanic,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'sklearn']",5
+rutwikdeshmukh_titanic-survival-predictions.html,rutwikdeshmukh,titanic-survival-predictions,"['pandas', 'numpy', 'seaborn', 'matplotlib', 'warnings', 'sklearn']",6
+mihoku91_ensemble-learning-titanic.html,mihoku91,ensemble-learning-titanic,"['numpy', 'pandas', 'os', 'category_encoders', 'sklearn']",5
+akkidhanani_titanic-dataset-apply-logistic-regression.html,akkidhanani,titanic-dataset-apply-logistic-regression,"['pandas', 'numpy', 'seaborn', 'matplotlib', 'sklearn']",5
+qwordy_titanic.html,qwordy,titanic,"['numpy', 'pandas', 'os', 'seaborn', 'matplotlib', 'sklearn', 'keras']",7
+tonypythoneer_titanic-try-to-make-complex.html,tonypythoneer,titanic-try-to-make-complex,"['pprint', 'pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",7
+anshita2794_titanic-survival-problem-sample.html,anshita2794,titanic-survival-problem-sample,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+sharma98_titanic-top-4.html,sharma98,titanic-top-4,"['numpy', 'pandas', 'os', 'sklearn']",4
+greenarrow2018_titanic-prediction.html,greenarrow2018,titanic-prediction,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'sklearn']",6
+econundrums_titanic-notebook.html,econundrums,titanic-notebook,"['pandas', 'numpy', 'seaborn', 'matplotlib', 'sklearn', 'statsmodels', 'keras']",7
+itachiuchiha10_survival-titanic.html,itachiuchiha10,survival-titanic,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+samuelhei_titanic-logistic-regression.html,samuelhei,titanic-logistic-regression,"['numpy', 'pandas', 'sklearn', 'os', 're']",5
+sudeeshvarier_titanic-logistic-regression-analysis-ml.html,sudeeshvarier,titanic-logistic-regression-analysis-ml,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'cufflinks', 'os', 'sklearn']",7
+plasticgrammer_titanic-training.html,plasticgrammer,titanic-training,"['numpy', 'pandas', 'seaborn', 'matplotlib', 'sklearn', 'lightgbm', 'shap']",7
+andreoliveira1992_titanic-andre.html,andreoliveira1992,titanic-andre,"['random', 'time', 'warnings', 'sys', 'os', 'scipy', 'numpy', 'pandas', 'IPython', 'matplotlib', 'seaborn', 'sklearn', 'xgboost', 'subprocess']",14
+jatinmittal0001_titanic-challenge-ensemble.html,jatinmittal0001,titanic-challenge-ensemble,"['numpy', 'pandas', 'matplotlib', 'sklearn', 'seaborn', 'os', 'xgboost', 'KFold\\nkf']",8
+buraky1_titanic-eda-example.html,buraky1,titanic-eda-example,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'collections', 'warnings', 'os']",7
+backtosept_titanic-data-science-solutions-488442.html,backtosept,titanic-data-science-solutions-488442,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+niranjana55_titanic-prb.html,niranjana55,titanic-prb,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'warnings', 'sklearn']",7
+roarki_a-journey-through-titanic.html,roarki,a-journey-through-titanic,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+mzr2017_titanic-best-working-classifier.html,mzr2017,titanic-best-working-classifier,"['numpy', 'pandas', 're', 'matplotlib', 'seaborn', 'sklearn']",6
+clumsyeater_the-titanic-project.html,clumsyeater,the-titanic-project,"['numpy', 'pandas', 'subprocess']",3
+yangsudlor_titanic.html,yangsudlor,titanic,"['numpy', 'pandas', 'matplotlib', 'torch', 'sklearn', 'random']",6
+ashvsmay00_titanic-data-science-solutions-83f146.html,ashvsmay00,titanic-data-science-solutions-83f146,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+ojaswiawasthi_titanic-datatset-submission-logistic-regression.html,ojaswiawasthi,titanic-datatset-submission-logistic-regression,"['numpy', 'pandas', 'os', 'sklearn']",4
+mukultiwari_titanic-top-14-with-random-forest.html,mukultiwari,titanic-top-14-with-random-forest,"['pandas', 'matplotlib', 'seaborn', 'numpy', 'xgboost', 'sklearn', 'warnings', 'GridSearchCV']",8
+someshugar_titanic-data-eda-and-prediction-model.html,someshugar,titanic-data-eda-and-prediction-model,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'datasets', 'sklearn']",7
+yuanic_bax452-hw1-titanic.html,yuanic,bax452-hw1-titanic,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'sklearn', 'math']",6
+evan8899_titanic-data-science-solutions.html,evan8899,titanic-data-science-solutions,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+waiyankhinemyo_titanic-logistics-regression-knn-decision-tree.html,waiyankhinemyo,titanic-logistics-regression-knn-decision-tree,"['pandas', 'numpy', 'matplotlib', 'math', 'seaborn', 'mpl_toolkits', 'time', 'datetime', 'os', 'sklearn']",10
+sunnynevarekar_titanic-survival-prediction.html,sunnynevarekar,titanic-survival-prediction,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'sklearn', 'warnings', 'joblib', 'time']",8
+kaushikmishra_titanicpredictor.html,kaushikmishra,titanicpredictor,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'tensorflow', 'keras', 'sklearn', 'scipy']",9
+ioanaandreeaanton_titanic-competition.html,ioanaandreeaanton,titanic-competition,"['numpy', 'pandas', 'matplotlib', 'os', 'sklearn']",5
+parakhsrivastava_titanic-survival-beginners.html,parakhsrivastava,titanic-survival-beginners,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'sklearn']",5
+pankajb64_a-journey-through-titanic.html,pankajb64,a-journey-through-titanic,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+lemoinef_titanic-data-exploration-and-visualization.html,lemoinef,titanic-data-exploration-and-visualization,"['numpy', 'pandas', 'matplotlib', 'subprocess']",4
+luke3d_titanic-random-forest-82-78.html,luke3d,titanic-random-forest-82-78,"['os', 'pandas', 'numpy', 'seaborn', 'matplotlib', 'sklearn']",6
+rohitmahor_titanic-problem.html,rohitmahor,titanic-problem,"['numpy', 'pandas', 'matplotlib', 'os', 'sklearn', 're']",6
+currypurin_titanic-lightgbm-ex-ver2.html,currypurin,titanic-lightgbm-ex-ver2,"['pandas', 'numpy', 'lightgbm', 'sklearn', 'warnings', 'os']",6
+yasermarey_predicting-survival-of-titanic-passengers-with-dnn.html,yasermarey,predicting-survival-of-titanic-passengers-with-dnn,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'tensorflow', 'sklearn']",6
+reubensinha_competition-kernel-titanic-survival-prediction.html,reubensinha,competition-kernel-titanic-survival-prediction,"['numpy', 'pandas', 'matplotlib', 'scipy', 'os', 'sklearn']",6
+sethzgold_titanic.html,sethzgold,titanic,[],0
+simo333_titanic-3-0-xgboost.html,simo333,titanic-3-0-xgboost,"['numpy', 'pandas', 'os', 'matplotlib', 'sklearn', 'tensorflow', 'xgboost']",7
+peterabdou_titanic-learn-from-others.html,peterabdou,titanic-learn-from-others,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+milanlamichhane_titanic-ml.html,milanlamichhane,titanic-ml,"['numpy', 'pandas', 'seaborn', 'matplotlib', 'sklearn']",5
+michaelhayden_xgboosttitanic92.html,michaelhayden,xgboosttitanic92,"['numpy', 'pandas', 'os', 'sklearn', 'xgboost']",5
+carlesorf_titanic-deep-in-the-sea-compare-models-and-keras.html,carlesorf,titanic-deep-in-the-sea-compare-models-and-keras,"['pandas', 'numpy', 'sklearn', 'matplotlib', 'seaborn', 'random,', 'warnings', 'keras']",8
+mattleedev_titanic-lunch-and-learn.html,mattleedev,titanic-lunch-and-learn,"['numpy', 'pandas', 'matplotlib', 'sklearn']",4
+echarl2_titanic-with-hyperopt.html,echarl2,titanic-with-hyperopt,"['sklearn', 'scipy', 'numpy', 'pandas', 'xgboost', 'matplotlib', 'gc', 'os', 'seaborn', 'collections', 'warnings', 'hyperopt']",12
+dex314_auto-feateng-for-titanic-data-forked.html,dex314,auto-feateng-for-titanic-data-forked,"['pandas', 'featuretools', 'LinearSVC', 'sklearn', 'RandomForestClassifier', 'lightgbm', 'seaborn', 'matplotlib', 'warnings', 'os', 'collections']",11
+umarhabib_analyzing-titanic-data-and-ml-model.html,umarhabib,analyzing-titanic-data-and-ml-model,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'sklearn']",6
+sjessies_ml-titanic-1-0.html,sjessies,ml-titanic-1-0,"['numpy', 'pandas', 'os', 'sklearn']",4
+mrhippo_titanic-prediction-and-analysis-with-dsh.html,mrhippo,titanic-prediction-and-analysis-with-dsh,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'DataScienceHelper', 'warnings', 'sklearn', 'os']",8
+karthikgunasekaran_titanic-data-science-solutions.html,karthikgunasekaran,titanic-data-science-solutions,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+vincentlino_titanic-data-science-solutions-d3a853.html,vincentlino,titanic-data-science-solutions-d3a853,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn', 'xgboost']",7
+aashishpotnuru_titanic-dataset.html,aashishpotnuru,titanic-dataset,"['numpy', 'pandas', 'os', 'sklearn', 'matplotlib']",5
+brightller_solutions-of-titanic-data-science.html,brightller,solutions-of-titanic-data-science,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+imsanjoykb_titanic-data-science-competition.html,imsanjoykb,titanic-data-science-competition,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'sklearn']",6
+flygare_titanic.html,flygare,titanic,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'check_output']",5
+smivvla_titanic-kernel.html,smivvla,titanic-kernel,"['os', 're', 'numpy', 'pandas', 'seaborn', 'matplotlib', 'sklearn', 'xgboost']",8
+kitushan_titanic-data-science-solutions-dc3035.html,kitushan,titanic-data-science-solutions-dc3035,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+arushiburson_titanic-machine-learning-85-accuracy.html,arushiburson,titanic-machine-learning-85-accuracy,"['pandas', 'numpy', 'seaborn', 'collections', 'sklearn']",5
+vinicius150987_titanic.html,vinicius150987,titanic,"['os', 'numpy', 'pandas', 'matplotlib', 'seaborn', 'warnings', 'collections', 're', 'sklearn', 'xgboost', 'scipy', 'eli5', 'joblib,']",13
+srolka_titanic-survival-logistic-regression.html,srolka,titanic-survival-logistic-regression,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'cufflinks', 'sklearn']",6
+alagappan_a-journey-through-titanic.html,alagappan,a-journey-through-titanic,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+alexeydudchenko_titanic-1.html,alexeydudchenko,titanic-1,"['numpy', 'pandas', 'os', 'sklearn']",4
+nico33_titanic-data-science-solutions.html,nico33,titanic-data-science-solutions,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+manjureddygl_titanic-prediction.html,manjureddygl,titanic-prediction,"['pandas', 'numpy', 'sklearn', 'xgboost', 'matplotlib', 'seaborn']",6
+profversaggi_new-titanic-script.html,profversaggi,new-titanic-script,"['numpy', 'pandas']",2
+esraa966_titanic-competition.html,esraa966,titanic-competition,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'sklearn', 'xgboost']",7
+catherineb_a-journey-through-titanic.html,catherineb,a-journey-through-titanic,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+junyeong00_titanic-surviver-with-cross-validation.html,junyeong00,titanic-surviver-with-cross-validation,"['numpy', 'pandas', 'os', 'seaborn', 'matplotlib', 'sklearn', 'graphviz', 'warnings', 'operator']",9
+ayumka_titanic-my-first-shakyo.html,ayumka,titanic-my-first-shakyo,"['sys,', 'warnings', 'sys', 'pandas', 'matplotlib', 'numpy', 'scipy', 'IPython', 'sklearn', 'random', 'time', 'os', 'svm,', 'xgboost', 'seaborn', 'file', 'itertools', 'graphviz']",18
+hnike25_titanic-deep-learning-keras-79-acc.html,hnike25,titanic-deep-learning-keras-79-acc,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'collections', 'sklearn', 'warnings', 'keras', 'scipy', 're', 'xgboost']",11
+multiw_exploring-the-titanic-dataset-in-progress.html,multiw,exploring-the-titanic-dataset-in-progress,"['the', 'pandas']",2
+raviagheda_titanic-survival-using-logistic-regression.html,raviagheda,titanic-survival-using-logistic-regression,"['numpy', 'pandas', 'sklearn', 'os']",4
+dvitsios_titanic-keras-dnn-classifier-one-hot-encoding.html,dvitsios,titanic-keras-dnn-classifier-one-hot-encoding,"['pandas', 'numpy', 'keras', 'sklearn', 'sys', 'subprocess', 'matplotlib']",7
+sandratierno_predictive-analytics-for-titanic.html,sandratierno,predictive-analytics-for-titanic,"['numpy', 'pandas', 'csv', 'subprocess', 'sklearn', 'os']",6
+arindamkumar_solution-2-0-titanic.html,arindamkumar,solution-2-0-titanic,"['numpy', 'pandas', 'os', 'matplotlib', 'sklearn']",5
+dreamwave_a-journey-through-titanic.html,dreamwave,a-journey-through-titanic,"['pandas', 'numpy', 'matplotlib', 'seaborn', 'sklearn']",5
+kobezorro_titanic-my-try.html,kobezorro,titanic-my-try,"['pandas', 'sklearn', 'numpy', 'seaborn', 'matplotlib', 'math', 'SelectKBest', 'chi2', 'xgboost', 'mlxtend']",10
+brudi16_eda-titanic.html,brudi16,eda-titanic,"['numpy', 'pandas', 'seaborn', 'matplotlib']",4
+mayurrathod1124_titanic-project.html,mayurrathod1124,titanic-project,"['numpy', 'pandas', 'os', 'warnings', 'seaborn', 'matplotlib', 'sklearn', 'IterativeImputer']",8
+musonda2day_titanic-prediction.html,musonda2day,titanic-prediction,"['numpy', 'pandas', 'sklearn', 'os']",4
+hudanivy_ai-camp-logistic-regression-titanic-homework.html,hudanivy,ai-camp-logistic-regression-titanic-homework,"['numpy', 'pandas', 'patsy', 'sklearn', 'matplotlib']",5
+lobodemonte_titanic-who-d-survive.html,lobodemonte,titanic-who-d-survive,"['numpy', 'pandas', 'os', 'statsmodels', 'matplotlib', 'sklearn', 'warnings']",7
+mahsahassankashi_predict-titanic-survival-accuracy-0-83.html,mahsahassankashi,predict-titanic-survival-accuracy-0-83,"['numpy', 'csv', 'sklearn']",3
+valentindb_homework-1-titanic.html,valentindb,homework-1-titanic,"['pandas', 'numpy', 'seaborn', 'matplotlib', 'pydot', 're', 'fastai', 'warnings', 'keras', 'sklearn']",10
+bilalyussef_tba-titanic.html,bilalyussef,tba-titanic,"['pandas', 'numpy', 'random', 'scipy', 'collections', 'sklearn', 'matplotlib', 'seaborn', 'IPython', 'warnings']",10
+lukego_titanic-data-preprocess.html,lukego,titanic-data-preprocess,"['pandas', 'numpy', 'seaborn', 'matplotlib', 'collections', 'math', 're']",7
+abinayajayaprakash_titanic-data-analysis.html,abinayajayaprakash,titanic-data-analysis,"['numpy', 'pandas', 'os', 'csv', 'matplotlib', 'seaborn', 'has']",7
+ragulshan_titanic-comprehensive-eda-to-ml.html,ragulshan,titanic-comprehensive-eda-to-ml,"['numpy', 'pandas', 'os', 'warnings', 'seaborn', 'matplotlib', 'sklearn', 'xgboost']",8
+vloden_titanic.html,vloden,titanic,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'sklearn']",5
+germanocorrea_titanic-first-draft.html,germanocorrea,titanic-first-draft,"['numpy', 'pandas', 'random', 'seaborn', 'matplotlib', 'os', 'sklearn']",7
+atripathi3675_titanic-basic-solution-with-logistic-regression.html,atripathi3675,titanic-basic-solution-with-logistic-regression,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'os', 're', 'sklearn']",7
+amyhurd_titanic-data-science-solutions-d22403.html,amyhurd,titanic-data-science-solutions-d22403,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'sklearn']",6
+hamdi1_titanic-or-dietanic.html,hamdi1,titanic-or-dietanic,"['numpy', 'pandas', 'os', 'random', 'seaborn', 'matplotlib', 'sklearn']",7
+harrygem_titanic-pipeline-and-save-load-model.html,harrygem,titanic-pipeline-and-save-load-model,"['necessary', 'numpy', 'pandas', 'sklearn', 'dill']",5
+shep312_applying-lightgbm-to-titanic-dataset.html,shep312,applying-lightgbm-to-titanic-dataset,"['pandas', 'numpy', 'matplotlib', 'lightgbm', 'sklearn']",5
+danielhung_titanic-prediction.html,danielhung,titanic-prediction,"['pandas', 'numpy', 're', 'plotly', 'cufflinks', 'sklearn']",6
+paultimothymooney_titanic-quick-analysis-w-minimal-dataset.html,paultimothymooney,titanic-quick-analysis-w-minimal-dataset,"['pandas', 'numpy', 'seaborn', 'matplotlib', 'os', 'itertools', 'sklearn', 'make_scorer,']",8
+liyaoo_titanic-decisiontree.html,liyaoo,titanic-decisiontree,"['numpy', 'pandas', 'os', 'sklearn']",4
+ashithjake_titanic-survival-prediction-improved-model.html,ashithjake,titanic-survival-prediction-improved-model,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'sklearn']",6
+rajshree07_random-forest-titanic-prediction.html,rajshree07,random-forest-titanic-prediction,"['numpy', 'pandas', 're', 'matplotlib', 'seaborn', 'sklearn', 'xgboost', 'os']",8
+moosecat_titanic-visualisations-plotly-and-d3.html,moosecat,titanic-visualisations-plotly-and-d3,"['pandas', 'numpy', 'random', 'seaborn', 'matplotlib', 'plotly', 'colorlover', 'sklearn', 'DecisionTreeClassifier', 'IPython', 'string', 'json', 'warnings', 'graph']",14
+xaxetrov_ml-training-our-first-challenge-titanic.html,xaxetrov,ml-training-our-first-challenge-titanic,"['matplotlib', 'numpy', 'os', 'pandas', 'seaborn', 'sklearn']",6
+jmda527_titanic-predict-by-randomforest-jmda.html,jmda527,titanic-predict-by-randomforest-jmda,"['numpy', 'pandas', 'matplotlib', 'seaborn', 'sklearn']",5
+cuijamm_titanic-starter-code-score-0-82296.html,cuijamm,titanic-starter-code-score-0-82296,"['pandas', 'numpy', 'seaborn', 'matplotlib', 'scipy', 'os', 'sklearn']",7
+builderdavid_titanic-model-baseline2.html,builderdavid,titanic-model-baseline2,"['numpy', 'pandas', 'os', 'matplotlib', 'warnings', 'tqdm', 're', 'sklearn', 'seaborn', 'lightgbm', 'randint']",11
+ristola_titanic.html,ristola,titanic,"['pandas', 'numpy', 're', 'matplotlib', 'sklearn', 'seaborn', 'IPython', 'xgboost', 'scipy']",9
+jayashreebiswal_titanic-disaster-prediction-logistic-regression.html,jayashreebiswal,titanic-disaster-prediction-logistic-regression,"['numpy', 'pandas', 'os', 'warnings', 'matplotlib', 'seaborn', 'sklearn']",7
+samliu_titanic.html,samliu,titanic,"['numpy', 'pandas', 'subprocess']",3
+pankeshpatel_titanic-survival-prediction.html,pankeshpatel,titanic-survival-prediction,"['numpy', 'pandas', 'os', 'warnings', 'IPython', 'base64', 'sklearn']",7
+effydog_titanic-survival-prediction-end-to-end-ml-pipeline.html,effydog,titanic-survival-prediction-end-to-end-ml-pipeline,"['pandas', 'numpy', 'matplotlib', 'seaborn', 're', 'sklearn']",6
+gmayock_gs-titanic-5-trying-to-get-in-the-top-25.html,gmayock,gs-titanic-5-trying-to-get-in-the-top-25,"['numpy', 'pandas', 'os', 'both', 'collections', 'sklearn', 'xgboost', 'yellowbrick', 'warnings']",9
+aditsrivastava4_titanic-prediction-by-adit-srivastava.html,aditsrivastava4,titanic-prediction-by-adit-srivastava,"['numpy', 'pandas', 'subprocess', 'sklearn']",4
+neilslab_titanic-voting-ensemble.html,neilslab,titanic-voting-ensemble,"['numpy', 'pandas', 're', 'matplotlib', 'sklearn']",5
+winnievorihilala_titanic.html,winnievorihilala,titanic,"['numpy', 'pandas', 'os', 'matplotlib', 'seaborn', 'sklearn', 'statsmodels', 'GridSearchCV']",8
+lystahi_titanic-data-lightgbm.html,lystahi,titanic-data-lightgbm,"['pandas', 'numpy', 'lightgbm', 'sklearn']",4
+altrev_titanic.html,altrev,titanic,"['sklearn', 'pandas', 'numpy', 'string']",4
+parlads_gettingstartedwithtitanicstastices.html,parlads,gettingstartedwithtitanicstastices,"['numpy', 'pandas', 'sklearn', 'os']",4
